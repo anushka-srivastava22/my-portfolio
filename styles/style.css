@@ -920,7 +920,11 @@ h3.my-profession {
         flex: 0 0 100%;
         max-width: 100%;
     }
-    .portfolio .achieve .achieve-item,
+    .portfolio .achieve .achieve-item {
+        flex: 0 0 85%;
+        max-width: 85%;
+        margin-left: 15px;
+    }
     .portfolio .projects .project-item  {
         flex: 0 0 90%;
         max-width: 90%;
