@@ -903,11 +903,10 @@ h3.my-profession {
     }
     .portfolio .projects .project-item,
     .portfolio .achieve .achieve-item {
-        flex: 0 0 45%;
-        max-width: 45%;
+        flex: 0 0 40%;
+        max-width: 40%;
         margin-left: 15px;
     }
-
 
 }
 
@@ -923,9 +922,9 @@ h3.my-profession {
     }
     .portfolio .achieve .achieve-item,
     .portfolio .projects .project-item  {
-        flex: 0 0 100%;
-        max-width: 100%;
+        flex: 0 0 90%;
+        max-width: 90%;
         margin-left: 15px;
-        }
+    }
     
 }
