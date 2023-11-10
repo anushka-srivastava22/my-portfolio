@@ -17,7 +17,7 @@ This portfolio website serves as a digital representation of my professional pro
 
 ## Project Screenshot
 
-
+![p](https://github.com/anushka-srivastava22/my-portfolio/assets/67271376/fe8f7134-0eee-420c-9c7d-12d7610759aa)
 
 ## Tech Stack
 
@@ -26,4 +26,6 @@ This portfolio website serves as a digital representation of my professional pro
 - **JavaScript:** Adding interactivity and dynamic elements to the website.
 - **Bootstrap:** Utilized for responsive and mobile-first design.
 
+## Visit My Website
 
+https://anushka-srivastava22.github.io/my-portfolio/
